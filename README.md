@@ -2,3 +2,4 @@
 Test for å se om jeg husker git ol.
 Min første commit
 Min andre commit
+Min tredje commit
